@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: cf2d1a788cc437849a40c66cb4830e4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4550467047193924654
+    second: Magic Girl_0
+  - first:
+      213: 6773221426317053762
+    second: Magic Girl_1
+  - first:
+      213: -854180613708199169
+    second: Magic Girl_2
+  - first:
+      213: -2490543850360701930
+    second: Magic Girl_3
+  - first:
+      213: -683742711876816002
+    second: Magic Girl_4
+  - first:
+      213: -7050908617929109509
+    second: Magic Girl_5
+  - first:
+      213: -9158875061920432836
+    second: Magic Girl_6
+  - first:
+      213: 8258425976644964175
+    second: Magic Girl_7
+  - first:
+      213: -4601985733958968780
+    second: Magic Girl_8
+  - first:
+      213: -2931309869355486668
+    second: Magic Girl_9
+  - first:
+      213: -4759000620596881773
+    second: Magic Girl_10
+  - first:
+      213: 1840958782894644007
+    second: Magic Girl_11
+  - first:
+      213: 2748355541472988448
+    second: Magic Girl_12
+  - first:
+      213: -7183918383912875155
+    second: Magic Girl_13
+  - first:
+      213: 8387012480896558734
+    second: Magic Girl_14
+  - first:
+      213: -4145393988929772801
+    second: Magic Girl_15
+  - first:
+      213: -1263942336407112046
+    second: Magic Girl_16
+  - first:
+      213: -1463860594632822540
+    second: Magic Girl_17
+  - first:
+      213: 2196265292473513360
+    second: Magic Girl_18
+  - first:
+      213: -6282356561787228553
+    second: Magic Girl_19
+  - first:
+      213: 1426381675056167598
+    second: Magic Girl_20
+  - first:
+      213: -4999497744767715462
+    second: Magic Girl_21
+  - first:
+      213: 6064664010942627909
+    second: Magic Girl_22
+  - first:
+      213: 1737808000758993495
+    second: Magic Girl_23
+  - first:
+      213: -4579605432206077458
+    second: Magic Girl_24
+  - first:
+      213: 2351312336664438645
+    second: Magic Girl_25
+  - first:
+      213: 574177989138907391
+    second: Magic Girl_26
+  - first:
+      213: 6443390778440252748
+    second: Magic Girl_27
+  - first:
+      213: 8278507462807471534
+    second: Magic Girl_28
+  - first:
+      213: 5097668266936901928
+    second: Magic Girl_29
+  - first:
+      213: 268034179424431784
+    second: Magic Girl_30
+  - first:
+      213: -5055480225496683424
+    second: Magic Girl_31
+  - first:
+      213: -52854627986186906
+    second: Magic Girl_32
+  - first:
+      213: -3067413112095808513
+    second: Magic Girl_33
+  - first:
+      213: -1781832429504461414
+    second: Magic Girl_34
+  - first:
+      213: -4008693452902401958
+    second: Magic Girl_35
+  - first:
+      213: 3815586005568640208
+    second: Magic Girl_36
+  - first:
+      213: -4142783587101671138
+    second: Magic Girl_37
+  - first:
+      213: 214687890318362
+    second: Magic Girl_38
+  - first:
+      213: 4917591452680951771
+    second: Magic Girl_39
+  - first:
+      213: -5323934089953694592
+    second: Magic Girl_40
+  - first:
+      213: 4071493007957248871
+    second: Magic Girl_41
+  - first:
+      213: -385080713226681136
+    second: Magic Girl_42
+  - first:
+      213: -8886386415328448985
+    second: Magic Girl_43
+  - first:
+      213: -1366490035217347795
+    second: Magic Girl_44
+  - first:
+      213: 7809367644706708741
+    second: Magic Girl_45
+  - first:
+      213: 3837443197801715930
+    second: Magic Girl_46
+  - first:
+      213: 7357176858841865333
+    second: Magic Girl_47
+  - first:
+      213: -9186179904120842478
+    second: Magic Girl_48
+  - first:
+      213: -6528194052429887586
+    second: Magic Girl_49
+  - first:
+      213: 7078020587808269249
+    second: Magic Girl_50
+  - first:
+      213: -2664256263934695925
+    second: Magic Girl_51
+  - first:
+      213: 582993067399824084
+    second: Magic Girl_52
+  - first:
+      213: -4770586671553444835
+    second: Magic Girl_53
+  - first:
+      213: -8100087053777125998
+    second: Magic Girl_54
+  - first:
+      213: -1607008882410098279
+    second: Magic Girl_55
+  - first:
+      213: -5374820012122408200
+    second: Magic Girl_56
+  - first:
+      213: 4991406280729662725
+    second: Magic Girl_57
+  - first:
+      213: -4130329158948909194
+    second: Magic Girl_58
+  - first:
+      213: 6101385407255541454
+    second: Magic Girl_59
+  - first:
+      213: 1624865312242678018
+    second: Magic Girl_60
+  - first:
+      213: 2525333325948578761
+    second: Magic Girl_61
+  - first:
+      213: 3232015553787857832
+    second: Magic Girl_62
+  - first:
+      213: -1731015723221974788
+    second: Magic Girl_63
+  - first:
+      213: -8933798934015539386
+    second: Magic Girl_64
+  - first:
+      213: 528084220497844098
+    second: Magic Girl_65
+  - first:
+      213: 837976686747289401
+    second: Magic Girl_66
+  - first:
+      213: -7366528143102515519
+    second: Magic Girl_67
+  - first:
+      213: -5765912554418056613
+    second: Magic Girl_68
+  - first:
+      213: 3619580152437134442
+    second: Magic Girl_69
+  - first:
+      213: 403604361238700375
+    second: Magic Girl_70
+  - first:
+      213: 7841221126225449773
+    second: Magic Girl_71
+  - first:
+      213: -4920753583122668486
+    second: Magic Girl_72
+  - first:
+      213: -6836856372264829414
+    second: Magic Girl_73
+  - first:
+      213: -1778802317176390040
+    second: Magic Girl_74
+  - first:
+      213: 6336465597329015240
+    second: Magic Girl_75
+  - first:
+      213: -3222994185421232927
+    second: Magic Girl_76
+  - first:
+      213: 7615257788140865087
+    second: Magic Girl_77
+  - first:
+      213: -4764532509799703083
+    second: Magic Girl_78
+  - first:
+      213: -5323231860766811076
+    second: Magic Girl_79
+  - first:
+      213: -8954742173842382445
+    second: Magic Girl_80
+  - first:
+      213: -6697982891488611686
+    second: Magic Girl_81
+  - first:
+      213: -5996049274664355196
+    second: Magic Girl_82
+  - first:
+      213: 2048640791655474242
+    second: Magic Girl_83
+  - first:
+      213: -2756555208042758424
+    second: Magic Girl_84
+  - first:
+      213: 8578947776252014067
+    second: Magic Girl_85
+  - first:
+      213: -5278234784538546032
+    second: Magic Girl_86
+  - first:
+      213: -7713958940069320881
+    second: Magic Girl_87
+  - first:
+      213: 687241429464653919
+    second: Magic Girl_0
+  - first:
+      213: -6170562474152177030
+    second: Magic Girl_1
+  - first:
+      213: 2385162576431724919
+    second: Magic Girl_2
+  - first:
+      213: -9121175519765451925
+    second: Magic Girl_3
+  - first:
+      213: 6727617424708506245
+    second: Magic Girl_4
+  - first:
+      213: 3478675858126608860
+    second: Magic Girl_5
+  - first:
+      213: 3554808050345473425
+    second: Magic Girl_6
+  - first:
+      213: 6710989933095650300
+    second: Magic Girl_7
+  - first:
+      213: -3210837171001381019
+    second: Magic Girl_8
+  - first:
+      213: 5845585989001084607
+    second: Magic Girl_9
+  - first:
+      213: -1620869450699043470
+    second: Magic Girl_10
+  - first:
+      213: 7093500906784962146
+    second: Magic Girl_11
+  - first:
+      213: -4658423414634969151
+    second: Magic Girl_12
+  - first:
+      213: -7826979476646929204
+    second: Magic Girl_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic Girl_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f502c2e5072998900800000000000000
+      internalID: 687241429464653919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72ddcf6f12cd5aa0800000000000000
+      internalID: -6170562474152177030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779b4c3e9bcc91120800000000000000
+      internalID: 2385162576431724919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b246ad0331b6180800000000000000
+      internalID: -9121175519765451925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5829a70476c4d5d50800000000000000
+      internalID: 6727617424708506245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd91d5c134db64030800000000000000
+      internalID: 3478675858126608860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1957a8d6617355130800000000000000
+      internalID: 3554808050345473425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3836da9c9322d50800000000000000
+      internalID: 6710989933095650300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fa7deca90d073d0800000000000000
+      internalID: -3210837171001381019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbef86a5c71bf1150800000000000000
+      internalID: 5845585989001084607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d0dc382d38189e0800000000000000
+      internalID: -1620869450699043470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26634d2ed7d217260800000000000000
+      internalID: 7093500906784962146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c70255f594f95fb0800000000000000
+      internalID: -4658423414634969151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Girl_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccdf2692abf06390800000000000000
+      internalID: -7826979476646929204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
